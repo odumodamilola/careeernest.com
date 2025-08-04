@@ -128,7 +128,7 @@ export default function Impact() {
                 viewport={{ once: true }}
               >
                 <img 
-                  src="https://images.unsplash.com/photo-1579202673506-ca3ce28943ef?auto=format&fit=crop&w=800&q=80" 
+                  src="https://i.pinimg.com/736x/3b/31/ff/3b31ffc23e8d1ebe7db5b5e4361fb906.jpg" 
                   alt="Map of Africa showing Career Nest's presence" 
                   className="rounded-xl shadow-md"
                 />

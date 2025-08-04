@@ -84,7 +84,7 @@ export const steps = [
     number: 1,
     title: 'Sign Up',
     description: 'Create your profile and specify your goals, interests, and experience.',
-    imageSrc: 'https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&w=600&q=80',
+    imageSrc: 'https://i.ibb.co/bw242Cm/cold-warm-colored-office-desk.jpg',
     imageAlt: 'Sign Up Process'
   },
   {
@@ -112,7 +112,7 @@ export const steps = [
     number: 5,
     title: 'Grow Career',
     description: 'Apply insights, track progress, and achieve your professional goals.',
-    imageSrc: 'https://images.unsplash.com/photo-1552581234-26160f608093?auto=format&fit=crop&w=600&q=80',
+    imageSrc: 'https://i.ibb.co/RpWXLwQn/professional-male-developer-manages-neural-network-desk-1.jpg',
     imageAlt: 'Career Growth'
   }
 ];
