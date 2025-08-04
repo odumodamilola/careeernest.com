@@ -139,29 +139,96 @@ export const impactStats = [
 // Team members
 export const teamMembers = [
   {
-    name: 'Sarah Okonkwo',
+    name: 'Odumo Damilola Peace',
     role: 'CEO & Founder',
-    bio: 'Former Google executive passionate about unlocking Africa\'s talent potential through mentorship.',
-    imageSrc: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=600&q=80',
-    linkedin: '#',
-    twitter: '#'
+    bio: 'Entrepreneur and Software Engineer with extensive experience in full-stack development and technical leadership. Passionate about leveraging technology to solve real-world problems and mentoring the next generation of tech professionals.',
+    imageSrc: 'https://i.ibb.co/QqtZRXB/IMG-20250503-WA0256.jpg',
+    linkedin: 'https://linkedin.com/in/damilolapeace',
+    twitter: 'https://x.com/damilolaodumo',
+    github: 'https://github.com/odumodamilola',
+    instagram: 'https://instagram.com/damilolaodumo'
   },
   {
-    name: 'David Mutua',
+    name: 'Okeowo Aminah',
     role: 'CTO',
-    bio: 'Tech innovator with 10+ years experience building scalable platforms that connect communities.',
-    imageSrc: 'https://images.unsplash.com/photo-1566492031773-4f4e44671857?auto=format&fit=crop&w=600&q=80',
+    bio: 'Experienced Product Manager specializing in user-centric design and agile methodologies. Successfully launched multiple digital products and led cross-functional teams in delivering innovative solutions.',
+    imageSrc: 'https://i.ibb.co/7hd74GQ/Web-Photo-Editor.jpg',
     linkedin: '#',
     github: '#'
   },
   {
-    name: 'Amina Diallo',
-    role: 'Head of Mentorship',
-    bio: 'Career development expert who has helped hundreds of professionals find their career path.',
+    name: 'Adegunwa Muhamed',
+    role: 'Front end Developer',
+    bio: 'Skilled front-end developer with expertise in modern web technologies and frameworks. Focused on creating responsive and intuitive user interfaces while ensuring optimal performance and accessibility.',
+    imageSrc: 'https://i.ibb.co/QvCy6LrH/Whats-App-Image-2025-02-16-at-12-17-31-2a88918d.jpg',
+    linkedin: '#',
+    instagram: '#'
+  },
+  {
+    name: 'Fatima Amuda',
+    role: 'AI/ML Engineer',
+    bio: 'AI/ML engineer focused on developing intelligent solutions and machine learning models. Experienced in implementing cutting-edge algorithms and data-driven applications.',
+    imageSrc: 'https://i.ibb.co/4xmdgDB/Fathima.jpg',
+    linkedin: '#',
+    instagram: '#'
+  },
+  {
+    name: 'Lawal Fathiah',
+    role: 'Data Analyst | Public Speaker | CTO ECOBLOOM',
+    bio: 'Data analyst and public speaker with expertise in transforming complex data into actionable insights. Passionate about sustainable technology and environmental innovation.',
+    imageSrc: 'https://media.licdn.com/dms/image/v2/D5622AQE1A2v4GsrDPw/feedshare-shrink_1280/B56ZacPTUbHsAk-/0/1746377986255?e=1756944000&v=beta&t=EW92bhyLkERZD0Pb9CMIWm-jdkYZRrFr2EJDCiyuW5A',
+    linkedin: '#',
+    instagram: '#'
+  },
+  {
+    name: 'Tekiat',
+    role: 'UI/UX Designer',
+    bio: 'Creative UI/UX designer passionate about crafting beautiful and functional digital experiences. Specializes in user research, wireframing, and creating intuitive design systems.',
     imageSrc: 'https://images.unsplash.com/photo-1543269664-76bc3997d9ea?auto=format&fit=crop&w=600&q=80',
     linkedin: '#',
     instagram: '#'
-  }
+  },
+  {
+    name: 'Ademola Mushood',
+    role: 'Mobile App Developer',
+    bio: 'Experienced mobile developer skilled in native and cross-platform development. Passionate about creating seamless mobile experiences and optimizing app performance.',
+    imageSrc: 'https://media.licdn.com/dms/image/v2/D4D22AQFkl5Bq2qocfA/feedshare-shrink_1280/feedshare-shrink_1280/0/1699266094478?e=1756944000&v=beta&t=nrO2r8OWjTnBSq_JOIRMIKkyUHJxGMGLTMmib69Cqgw',
+    linkedin: '#',
+    instagram: '#'
+  },
+  {
+    name: 'Mr ISCO',
+    role: '3MTT Trained Product Designer',
+    bio: 'Certified product designer with expertise in user-centered design principles. Combines creativity with analytical thinking to deliver impactful digital products.',
+    imageSrc: 'https://images.unsplash.com/photo-1543269664-76bc3997d9ea?auto=format&fit=crop&w=600&q=80',
+    linkedin: '#',
+    instagram: '#'
+  },{
+    name: 'Lawal Rizqoh',
+    role: 'UI/UX Designer',
+    bio: 'Seasoned career development expert with over 8 years of experience in professional mentoring and talent development. Has helped hundreds of professionals navigate career transitions and achieve their professional goals. Specializes in creating structured mentorship programs and building effective mentor-mentee relationships across various industries.',
+    imageSrc: 'https://media.licdn.com/dms/image/v2/D4E22AQHW7hmhbmgJEw/feedshare-shrink_2048_1536/B4EZcJRoxQGQAo-/0/1748207312237?e=1756944000&v=beta&t=9SrNacb-OOG7vuxJB_2-h5qnNlaZ_IfMTCh03OHzuPk',
+    linkedin: '#',
+    instagram: '#'
+  },
+  {
+    name: 'Tomiwa',
+    role: 'Front end Developer',
+    bio: 'Frontend developer specializing in modern JavaScript frameworks and responsive design. Committed to writing clean, maintainable code and creating engaging user experiences.',
+    imageSrc: 'https://images.unsplash.com/photo-1543269664-76bc3997d9ea?auto=format&fit=crop&w=600&q=80',
+    linkedin: '#',
+    instagram: '#'
+  },
+ 
+  {
+    name: 'Habeeb',
+    role: 'Graphics Designer',
+    bio: 'Creative graphics designer with a keen eye for detail and composition. Specializes in brand identity, digital illustrations, and marketing materials.',
+    imageSrc: 'https://images.unsplash.com/photo-1543269664-76bc3997d9ea?auto=format&fit=crop&w=600&q=80',
+    linkedin: '#',
+    instagram: '#'
+  },
+ 
 ];
 
 // Testimonials
@@ -242,33 +309,51 @@ export const learningTracks = [
 // App preview screens
 export const appScreens = [
   {
+    id: 'onboarding',
+    title: 'welcome to career nest',
+    description: 'A community of mentors and mentee to help you achieve your career goals.',
+    imageSrc: 'https://i.ibb.co/HpHYn3sd/Screenshot-2025-03-22-004559.png',
+  },
+  {
+    id: 'onboarding2',
+    title: '400+ mentors',
+    description: 'join about 400+ mentors and mentees around the world.',
+    imageSrc: 'https://i.ibb.co/1Gc4k1Jy/Screenshot-2025-03-24-013926.png',
+  },
+  {
+    id: 'onboarding3',
+    title: '900+ mentees',
+    description: 'Join 900+ mentees around the world.',
+    imageSrc: 'https://i.ibb.co/VWhy0d7d/Screenshot-2025-03-24-020605.png',
+  },
+  {
     id: 'sign-up',
     title: 'Simple Sign-Up',
     description: 'Create your profile in minutes and start your mentorship journey.',
-    imageSrc: 'https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&w=600&q=80',
+    imageSrc: 'https://i.ibb.co/QjDnqMQh/Screenshot-2025-03-24-134106.png',
   },
   {
     id: 'browse-mentors',
     title: 'Browse Mentors',
     description: 'Explore our diverse community of experienced industry professionals.',
-    imageSrc: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=600&q=80',
+    imageSrc: 'https://i.ibb.co/WWgtzvSv/Screenshot-2025-03-24-181442.png',
   },
   {
     id: 'match-ai',
     title: 'AI Matching',
     description: 'Get paired with the perfect mentor based on your goals and preferences.',
-    imageSrc: 'https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=600&q=80',
+    imageSrc: 'https://i.ibb.co/5WpCWqnM/Screenshot-2025-03-28-164321.png',
   },
   {
     id: 'in-app-chat',
     title: 'Secure Messaging',
     description: 'Communicate directly with your mentor through our encrypted platform.',
-    imageSrc: 'https://images.unsplash.com/photo-1579389083078-4e7018379f7e?auto=format&fit=crop&w=600&q=80',
+    imageSrc: 'https://i.ibb.co/JjFGJ3hT/Screenshot-2025-03-28-164419.png',
   },
   {
     id: 'session-booking',
     title: 'Easy Scheduling',
     description: 'Book mentorship sessions that fit perfectly into your calendar.',
-    imageSrc: 'https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=600&q=80',
+    imageSrc: 'https://i.ibb.co/vxr8fc72/Screenshot-2025-03-28-164442.png',
   },
 ];
