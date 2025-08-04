@@ -22,8 +22,8 @@ export default function Footer() {
           {/* Company Info */}
           <motion.div variants={slideUp} className="col-span-1 sm:col-span-2 lg:col-span-1">
             <div className="text-2xl font-bold mb-4 sm:mb-6 flex items-center">
-              {/* <i className="fas fa-layer-group mr-2"></i> */}
-              <span>CareerNest</span>
+              {/* <i class Name="fas fa-layer-group mr-2"></i> */}
+              <span>Career Nest</span>
             </div>
             <p className="text-gray-400 mb-6 max-w-xs">
               Connecting mentees and mentors across Africa to supercharge career growth through personalized mentorship.
