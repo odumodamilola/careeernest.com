@@ -46,7 +46,7 @@ export default function Header({ theme, toggleTheme }: HeaderProps) {
             transition={{ duration: 0.5 }}
           >
             {/* <i className="fas fa-layer-group mr-2"></i> */}
-            <span className="dark:text-white">CareerNest</span>
+            <span className="dark:text-white">Career Nest</span>
           </motion.div>
         </div>
         
