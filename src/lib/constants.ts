@@ -174,7 +174,7 @@ export const teamMembers = [
   },
   {
     name: 'Lawal Fathiah',
-    role: 'Data Analyst | Public Speaker | CTO ECOBLOOM',
+    role: 'Data Analyst | Public Speaker | CO-Founder ECOBLOOM',
     bio: 'Data analyst and public speaker with expertise in transforming complex data into actionable insights. Passionate about sustainable technology and environmental innovation.',
     imageSrc: 'https://media.licdn.com/dms/image/v2/D5622AQE1A2v4GsrDPw/feedshare-shrink_1280/B56ZacPTUbHsAk-/0/1746377986255?e=1756944000&v=beta&t=EW92bhyLkERZD0Pb9CMIWm-jdkYZRrFr2EJDCiyuW5A',
     linkedin: '#',
