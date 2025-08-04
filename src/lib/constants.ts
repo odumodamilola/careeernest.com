@@ -140,8 +140,8 @@ export const impactStats = [
 export const teamMembers = [
   {
     name: 'Odumo Damilola Peace',
-    role: 'Founder | Software Engineer',
-    bio: 'Entrepreneur and Software Engineer with extensive experience in full-stack development and technical leadership. Passionate about leveraging technology to solve real-world problems and mentoring the next generation of tech professionals.',
+    role: 'CEO & Lead Software Engineer',
+    bio: 'Full-stack developer and tech entrepreneur focused on building scalable solutions. Passionate about mentoring and fostering tech talent in Africa.',
     imageSrc: 'https://i.ibb.co/QqtZRXB/IMG-20250503-WA0256.jpg',
     linkedin: 'https://linkedin.com/in/damilolapeace',
     twitter: 'https://x.com/damilolaodumo',
@@ -150,85 +150,84 @@ export const teamMembers = [
   },
   {
     name: 'Okeowo Aminah',
-    role: 'Product Manager | Co-Founder',
-    bio: 'Experienced Product Manager specializing in user-centric design and agile methodologies. Successfully launched multiple digital products and led cross-functional teams in delivering innovative solutions.',
+    role: 'CTO & Product Lead',
+    bio: 'Product strategist specializing in user-centric design and agile methodologies. Expert in launching innovative digital products and leading tech teams.',
     imageSrc: 'https://i.ibb.co/7hd74GQ/Web-Photo-Editor.jpg',
     linkedin: '#',
     github: '#'
   },
   {
     name: 'Adegunwa Muhamed',
-    role: 'Front End Developer | Co-Founder',
-    bio: 'Skilled front-end developer with expertise in modern web technologies and frameworks. Focused on creating responsive and intuitive user interfaces while ensuring optimal performance and accessibility.',
+    role: 'Lead Frontend Engineer',
+    bio: 'Frontend specialist with expertise in React and modern web frameworks. Focused on building responsive and accessible user interfaces.',
     imageSrc: 'https://i.ibb.co/QvCy6LrH/Whats-App-Image-2025-02-16-at-12-17-31-2a88918d.jpg',
     linkedin: '#',
     instagram: '#'
   },
   {
-    name: 'Fatima Amuda ',
-    role: 'AI/ML Engineer | Co-Founder',
-    bio: 'AI/ML engineer focused on developing intelligent solutions and machine learning models. Experienced in implementing cutting-edge algorithms and data-driven applications.',
+    name: 'Fatima Amuda',
+    role: 'AI/ML Lead Engineer',
+    bio: 'Machine learning expert specializing in recommendation systems and predictive analytics. Drives the AI-powered matching system.',
     imageSrc: 'https://i.ibb.co/4xmdgDB/Fathima.jpg',
     linkedin: '#',
     instagram: '#'
   },
   {
     name: 'Lawal Fathiah',
-    role: 'Data Analyst | Public Speaker | CO-Founder ECOBLOOM',
-    bio: 'Data analyst and public speaker with expertise in transforming complex data into actionable insights. Passionate about sustainable technology and environmental innovation.',
+    role: 'Data Analytics Lead',
+    bio: 'Data analyst focusing on business intelligence and performance metrics. Expert in translating data into actionable insights.',
     imageSrc: 'https://media.licdn.com/dms/image/v2/D5622AQE1A2v4GsrDPw/feedshare-shrink_1280/B56ZacPTUbHsAk-/0/1746377986255?e=1756944000&v=beta&t=EW92bhyLkERZD0Pb9CMIWm-jdkYZRrFr2EJDCiyuW5A',
     linkedin: '#',
     instagram: '#'
   },
   {
     name: 'Tekiat',
-    role: 'UI/UX Designer',
-    bio: 'Creative UI/UX designer passionate about crafting beautiful and functional digital experiences. Specializes in user research, wireframing, and creating intuitive design systems.',
+    role: 'Senior UI/UX Designer',
+    bio: 'User experience designer focused on creating intuitive and engaging interfaces. Specializes in user research and interaction design.',
     imageSrc: 'https://images.unsplash.com/photo-1543269664-76bc3997d9ea?auto=format&fit=crop&w=600&q=80',
     linkedin: '#',
     instagram: '#'
   },
   {
     name: 'Ademola Mushood',
-    role: 'Mobile App Developer',
-    bio: 'Experienced mobile developer skilled in native and cross-platform development. Passionate about creating seamless mobile experiences and optimizing app performance.',
+    role: 'Mobile Development Lead',
+    bio: 'Cross-platform mobile developer specializing in React Native. Expert in building performant and user-friendly mobile applications.',
     imageSrc: 'https://media.licdn.com/dms/image/v2/D4D22AQFkl5Bq2qocfA/feedshare-shrink_1280/feedshare-shrink_1280/0/1699266094478?e=1756944000&v=beta&t=nrO2r8OWjTnBSq_JOIRMIKkyUHJxGMGLTMmib69Cqgw',
     linkedin: '#',
     instagram: '#'
   },
   {
     name: 'Mr ISCO',
-    role: '3MTT Trained Product Designer',
-    bio: 'Certified product designer with expertise in user-centered design principles. Combines creativity with analytical thinking to deliver impactful digital products.',
+    role: 'Product Designer',
+    bio: 'Certified product designer with focus on user experience and interface design. Creates engaging digital products through user-centered design.',
     imageSrc: 'https://images.unsplash.com/photo-1543269664-76bc3997d9ea?auto=format&fit=crop&w=600&q=80',
     linkedin: '#',
     instagram: '#'
-  },{
+  },
+  {
     name: 'Lawal Rizqoh',
-    role: 'UI/UX Designer',
-    bio: 'Seasoned career development expert with over 8 years of experience in professional mentoring and talent development. Has helped hundreds of professionals navigate career transitions and achieve their professional goals. Specializes in creating structured mentorship programs and building effective mentor-mentee relationships across various industries.',
+    role: 'Lead UI/UX Designer',
+    bio: 'Design strategist specializing in creating seamless user experiences. Expert in visual design and user interface patterns.',
     imageSrc: 'https://media.licdn.com/dms/image/v2/D4E22AQHW7hmhbmgJEw/feedshare-shrink_2048_1536/B4EZcJRoxQGQAo-/0/1748207312237?e=1756944000&v=beta&t=9SrNacb-OOG7vuxJB_2-h5qnNlaZ_IfMTCh03OHzuPk',
     linkedin: '#',
     instagram: '#'
   },
   {
     name: 'Tomiwa',
-    role: 'Front end Developer',
-    bio: 'Frontend developer specializing in modern JavaScript frameworks and responsive design. Committed to writing clean, maintainable code and creating engaging user experiences.',
+    role: 'Frontend Developer',
+    bio: 'Frontend specialist with focus on React and TypeScript. Builds responsive and performant web applications.',
     imageSrc: 'https://images.unsplash.com/photo-1543269664-76bc3997d9ea?auto=format&fit=crop&w=600&q=80',
     linkedin: '#',
     instagram: '#'
   },
- 
   {
     name: 'Habeeb',
-    role: 'Graphics Designer',
-    bio: 'Creative graphics designer with a keen eye for detail and composition. Specializes in brand identity, digital illustrations, and marketing materials.',
+    role: 'Lead Graphics Designer',
+    bio: 'Creative designer specializing in brand identity and digital marketing assets. Expert in visual storytelling and brand communication.',
     imageSrc: 'https://images.unsplash.com/photo-1543269664-76bc3997d9ea?auto=format&fit=crop&w=600&q=80',
     linkedin: '#',
     instagram: '#'
-  },
- 
+  }
 ];
 
 // Testimonials

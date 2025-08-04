@@ -38,7 +38,7 @@ export default function Footer() {
               <a href="https://www.instagram.com/careernests" className="text-gray-400 hover:text-white transition-colors duration-300 w-10 h-10 flex items-center justify-center rounded-full bg-gray-800 hover:bg-gray-700" aria-label="Instagram">
                 <i className="fab fa-instagram"></i>
               </a>
-              <a href="https://www.linkedin.com/company/careernests" className="text-gray-400 hover:text-white transition-colors duration-300 w-10 h-10 flex items-center justify-center rounded-full bg-gray-800 hover:bg-gray-700" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com/company/career-nests" className="text-gray-400 hover:text-white transition-colors duration-300 w-10 h-10 flex items-center justify-center rounded-full bg-gray-800 hover:bg-gray-700" aria-label="LinkedIn">
                 <i className="fab fa-linkedin"></i>
               </a>
             </div>
