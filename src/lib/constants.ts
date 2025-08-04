@@ -140,7 +140,7 @@ export const impactStats = [
 export const teamMembers = [
   {
     name: 'Odumo Damilola Peace',
-    role: 'CEO & Founder',
+    role: 'Founder | Software Engineer',
     bio: 'Entrepreneur and Software Engineer with extensive experience in full-stack development and technical leadership. Passionate about leveraging technology to solve real-world problems and mentoring the next generation of tech professionals.',
     imageSrc: 'https://i.ibb.co/QqtZRXB/IMG-20250503-WA0256.jpg',
     linkedin: 'https://linkedin.com/in/damilolapeace',
@@ -150,7 +150,7 @@ export const teamMembers = [
   },
   {
     name: 'Okeowo Aminah',
-    role: 'CTO',
+    role: 'Product Manager | Co-Founder',
     bio: 'Experienced Product Manager specializing in user-centric design and agile methodologies. Successfully launched multiple digital products and led cross-functional teams in delivering innovative solutions.',
     imageSrc: 'https://i.ibb.co/7hd74GQ/Web-Photo-Editor.jpg',
     linkedin: '#',
@@ -158,15 +158,15 @@ export const teamMembers = [
   },
   {
     name: 'Adegunwa Muhamed',
-    role: 'Front end Developer',
+    role: 'Front End Developer | Co-Founder',
     bio: 'Skilled front-end developer with expertise in modern web technologies and frameworks. Focused on creating responsive and intuitive user interfaces while ensuring optimal performance and accessibility.',
     imageSrc: 'https://i.ibb.co/QvCy6LrH/Whats-App-Image-2025-02-16-at-12-17-31-2a88918d.jpg',
     linkedin: '#',
     instagram: '#'
   },
   {
-    name: 'Fatima Amuda',
-    role: 'AI/ML Engineer',
+    name: 'Fatima Amuda ',
+    role: 'AI/ML Engineer | Co-Founder',
     bio: 'AI/ML engineer focused on developing intelligent solutions and machine learning models. Experienced in implementing cutting-edge algorithms and data-driven applications.',
     imageSrc: 'https://i.ibb.co/4xmdgDB/Fathima.jpg',
     linkedin: '#',
